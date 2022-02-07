@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @costahvictor
-- 👀 I’m interested in Data Science, Machine Learning and AI
+- 👀 I’m interested in Data Science, Machine Learning, AI and Digital Marketing.
 - 🌱 I’m currently learning R and Azure Machine Learning
 - 📫 How to reach me: just sent me an email to vhgcosta@yahoo.com.br
 
